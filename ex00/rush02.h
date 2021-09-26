@@ -6,7 +6,7 @@
 /*   By: daskim <daskim@student.42seoul.kr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/26 20:48:23 by daskim            #+#    #+#             */
-/*   Updated: 2021/09/26 20:48:56 by daskim           ###   ########.fr       */
+/*   Updated: 2021/09/26 21:05:58 by daskim           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,6 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <fcntl.h>
-# include <sys/uio.h>
-# include <sys/types.h>
 
 int		ft_strcmp(char *s1, char *s2);
 int		ft_strlen(char *str);
